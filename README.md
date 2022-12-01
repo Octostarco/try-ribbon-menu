@@ -1,3 +1,10 @@
+# For integration work only
+
+Still encountering errors, possibly typescript definitions not up to date... or?
+
+Trying to implement [this example](https://github.com/olton/ribbon-menu/tree/master/demo)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
