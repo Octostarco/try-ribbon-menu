@@ -15,7 +15,8 @@ import {
   RibbonTabSubGroup,
   RibbonDropdownCheckItem,
   RibbonTabDivider,
-} from "@olton/ribbon-menu";
+} from "@metroui/ribbon-menu";
+
 
 import "./index.css";
 
@@ -44,7 +45,7 @@ const App = () => {
               <RibbonDropdownMenu>
                 <RibbonDropdownItem
                   caption="Windows 10"
-                  onClick={(e) => {
+                  onClick={(e: any) => {
                     console.log(e);
                   }}
                 />
@@ -54,7 +55,7 @@ const App = () => {
                 <RibbonButtonGroup active={2}>
                   <RibbonDropdownItem
                     caption="Windows 10"
-                    onClick={(e) => {
+                    onClick={(e: any) => {
                       console.log(e);
                     }}
                   />
@@ -65,7 +66,7 @@ const App = () => {
                 <RibbonDropdownCheckItem
                   checked
                   caption="Windows 10"
-                  onClick={(e) => {
+                  onClick={(e : any) => {
                     console.log(e);
                   }}
                 />
