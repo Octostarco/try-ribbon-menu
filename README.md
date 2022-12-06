@@ -2,9 +2,7 @@
 
 [![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/octostarco/try-ribbon-menu)
 
-Still encountering errors, possibly typescript definitions not up to date... or?
-
-Trying to implement [this example](https://github.com/olton/ribbon-menu/tree/master/demo)
+Looks good.
 
 
 # Getting Started with Create React App
